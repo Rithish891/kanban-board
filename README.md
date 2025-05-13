@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-Ajay Jakkireddy - Kanban Board
+Interactive Kanban Board
